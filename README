@@ -1,0 +1,7 @@
+This directory contains software for analysis of living networks.
+
+cluster_friend_graph.py - This program reads in a graph of one's Facebook
+friends (previously retrieved and stored in a Python pickle file) and clusters
+it using hierarchical agglomerative clustering on the Jaccard distance.  It
+writes the tree(s) of friends to standard output and also writes the
+tree-ordered friend matrix to a CSV file.
