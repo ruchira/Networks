@@ -1,3 +1,11 @@
+*This repo has been archived.*
+
+DEPRECATED: This code has not been tested in many years and is unlikely to work any more.  
+
+For the time being, a mirror can be found at [codeberg.org/ruchira/Networks](https://codeberg.org/ruchira/Networks). 
+
+Previous README below.
+
 This directory contains software for analysis of living networks.
 
 cluster_friend_graph.py - This program reads in a graph of one's Facebook
